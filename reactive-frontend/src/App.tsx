@@ -5,9 +5,8 @@ import { questions } from './constants/questions.ts';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+        <h1>Quiz zur IT-Sicherheit der MooveTeq</h1>
         <Quiz questions={questions}></Quiz>
-      </header>
     </div>
   );
 }

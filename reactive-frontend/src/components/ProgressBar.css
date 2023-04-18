@@ -1,0 +1,12 @@
+.unfinished {
+    border: 1px solid silver;
+    background: #ffffff;
+    width: 500px;
+}
+.finished {
+    background: #00cc00;
+    height: 24px;
+    line-height: 24px;
+    font-family: sans-serif;
+    transition: 0.3s;
+}
